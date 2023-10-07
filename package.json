@@ -1,0 +1,25 @@
+{
+  "name": "nosql-homework-17",
+  "version": "1.0.0",
+  "description": "A social network API for sharing thoughts and reactions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morinc35/NoSQL-Homework-17.git"
+  },
+  "author": "Morinc35",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Morinc35/NoSQL-Homework-17/issues"
+  },
+  "homepage": "https://github.com/Morinc35/NoSQL-Homework-17#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0",
+    "nodemon": "^3.0.1"
+  }
+}
