@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Morinc35/NoSQL-Homework-17#readme",
   "dependencies": {
+    "cwd": "^0.10.0",
     "express": "^4.18.2",
     "mongoose": "^7.6.0",
     "nodemon": "^3.0.1"

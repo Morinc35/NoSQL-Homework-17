@@ -1,6 +1,8 @@
 const express = require('express');
 const db =require('./config/connection')
 
+const cwd = process.cwd();
+
 const app = express();
 const port = 3001;
 
